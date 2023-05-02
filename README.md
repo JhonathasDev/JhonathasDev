@@ -6,7 +6,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
 </div>  
   
-<div align="center">Welcome to my repository.</div>  
+<div align="center"><h2>Welcome to my repository</h2>.</div>  
 <div align="center">My name is Jhonathas Climaco, I'm a Front-End Developer with skills in HTML, CSS,  and JavaScript. And I'm studying at the faculty of systems analysis and development 👨‍💻 </div> 
   
 <br/>  
