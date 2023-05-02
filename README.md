@@ -7,10 +7,7 @@
 </div>  
   
 ### <div align="center">Welcome to my repository.</div>  
-### <div align="center">My name is Bruno Gomes, I'm 25 years old and I'm a Front-End Developer with skills in HTML, CSS, Bootstrap and JavaScript. 👨‍💻 </div>  
-  
-
-- 🔭 I am currently open to job opportunities [LinkedIn](https://www.linkedin.com/in/brunogs97/)  
+### <div align="center">My name is Jhonathas Climaco, I'm a Front-End Developer with skills in HTML, CSS,  and JavaScript. And I'm studying at the faculty of systems analysis and development 👨‍💻 </div> 
   
 <br/>  
 
