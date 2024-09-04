@@ -23,17 +23,17 @@
 - Programming Languages: Currently building my skills in C, Python, and JavaScript.
 - Problem Solving: Engaging in projects that challenge me to think critically and develop practical solutions.
 - Innovative Thinking: Exploring how technology can be harnessed to solve real-world problems and improve lives.
-- 
+  
 🔭 Current Goals
 - Continue expanding my programming knowledge.
 - Work on practical projects that push my boundaries.
 - Connect with like-minded individuals and professionals in the tech community.
-- 
+  
 🚀 Projects
-- I'm actively working on a variety of projects that help me apply my programming skills and learn new concepts. You can find these in my repositories, where I document my progress and share my code.
+   I'm actively working on a variety of projects that help me apply my programming skills and learn new concepts. You can find these in my repositories, where I document my progress and share my code.
 
 🤝 Let's Connect!
-- I'm always open to learning from others and sharing what I know. Feel free to connect with me on LinkedIn or explore my repositories here on GitHub. Let's collaborate on exciting tech projects!
+   I'm always open to learning from others and sharing what I know. Feel free to connect with me on LinkedIn or explore my repositories here on GitHub. Let's collaborate on exciting tech projects!
 
 
  
