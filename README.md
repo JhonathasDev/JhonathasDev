@@ -6,7 +6,8 @@
 </div>  
   
 <div align="center"><h2>Welcome to my repository</h2></div>  
-<div align="center">My journey in tech has just begun, and I'm excited to dive deeper into the world of programming and innovation. </div> 
+<div align="center">💻 Interdisciplinary Bachelor's in Science, Technology, and Innovation | Systems Development Technician. 
+ <br> My journey in tech has just begun, and I'm excited to dive deeper into the world of programming and innovation. </div> 
   
 <br/>  
 
@@ -15,7 +16,6 @@
 <a href = "mailto:jhonathassouza3@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/Jhonathas-Climaco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
-
 
 <br />
 
@@ -30,10 +30,10 @@
 - Connect with like-minded individuals and professionals in the tech community.
   
 🚀 Projects
-   I'm actively working on a variety of projects that help me apply my programming skills and learn new concepts. You can find these in my repositories, where I document my progress and share my code.
+  - I'm actively working on a variety of projects that help me apply my programming skills and learn new concepts. You can find these in my repositories, where I document my progress and share my code.
 
 🤝 Let's Connect!
-   I'm always open to learning from others and sharing what I know. Feel free to connect with me on LinkedIn or explore my repositories here on GitHub. Let's collaborate on exciting tech projects!
+  - I'm always open to learning from others and sharing what I know. Feel free to connect with me on LinkedIn or explore my repositories here on GitHub. Let's collaborate on exciting tech projects!
 
 
  
