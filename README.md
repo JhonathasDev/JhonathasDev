@@ -1,46 +1,59 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jhonathas+Climaco;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jhonathas+Climaco;I'm+20+years+old;I'm+from+Brazil;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
 </div>  
   
 <div align="center"><h2>Welcome to my repository</h2></div>  
-<div align="center">💻 Interdisciplinary Bachelor's in Science, Technology, and Innovation | Systems Development Technician. 
- <br> My journey in tech has just begun, and I'm excited to dive deeper into the world of programming and innovation. </div> 
-  
+<div align="center">
+🎓 Interdisciplinary Bachelor's in Science, Technology and Innovation (UFBA)  
+💻 Systems Development Technician (SENAI)  
+🧠 Focado em desenvolvimento backend e fundamentos sólidos de programação
+</div> 
+
 <br/>  
 
 <div align="center"> 
-<a href="https://instagram.com/jhonathasdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:jhonathassouza3@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/Jhonathas-Climaco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+  <a href="https://instagram.com/jhonathasdev" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href = "mailto:jhonathassouza3@gmail.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/Jhonathas-Climaco/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</div>
 
 <br />
 
-🌱 What I'm Learning
-- Programming Languages: Currently building my skills in C, Python, and JavaScript.
-- Problem Solving: Engaging in projects that challenge me to think critically and develop practical solutions.
-- Innovative Thinking: Exploring how technology can be harnessed to solve real-world problems and improve lives.
-  
-🔭 Current Goals
-- Continue expanding my programming knowledge.
-- Work on practical projects that push my boundaries.
-- Connect with like-minded individuals and professionals in the tech community.
-  
-🚀 Projects
-  - I'm actively working on a variety of projects that help me apply my programming skills and learn new concepts. You can find these in my repositories, where I document my progress and share my code.
+### 🌱 Atualmente me aprofundando em:
+- **Java**, com foco em fundamentos de backend, POO e lógica estruturada.
+- **C**, para fortalecer a base em algoritmos, estruturas de dados e desempenho.
+- **SQL**, aprendendo a modelar e consultar bancos de dados relacionais.
+- Práticas com **Git/GitHub**, versionamento e organização de código.
+- Desenvolvimento contínuo de projetos pessoais e acadêmicos.
 
-🤝 Let's Connect!
-  - I'm always open to learning from others and sharing what I know. Feel free to connect with me on LinkedIn or explore my repositories here on GitHub. Let's collaborate on exciting tech projects!
+---
 
+### 🛠️ Tecnologias que uso no dia a dia:
 
- 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-###  Main skills:
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
-![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+---
 
+### 🎯 Meus objetivos:
+- Evoluir com consistência no backend, com base em boas práticas e fundamentos sólidos.
+- Participar de projetos que envolvam lógica, estruturação de sistemas e banco de dados.
+- Construir um portfólio que reflita aprendizado real, código limpo e progresso contínuo.
+- Me tornar engenheiro de software com domínio técnico e visão de produto.
+
+---
+
+### 🤝 Vamos nos conectar!
+Gosto de trocar ideia sobre tecnologia, aprender com a prática e crescer junto com quem também está construindo sua jornada.  
+📬 [LinkedIn](https://www.linkedin.com/in/Jhonathas-Climaco/) | [Instagram](https://instagram.com/jhonathasdev)
