@@ -1,25 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Jhonathas+Climaco;I'm+20+years+old;I'm+from+Brazil;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+# Jhonathas Climaco
 
-## Jhonathas Climaco
-🎓 Interdisciplinary Bachelor's in Science, Technology, and Innovation (UFBA)  
-💻 Systems Development Technician (SENAI)  
-📍 Brazil
+**`Student | Future Software Engineer`**
 
-### 🌱 Technologies I’m currently learning:
-- **Java** | **C** | **SQL**
-
-### 🎯 My Goals:
-- **Backend development** with a focus on **Java** and **SQL**.
-- Building solid programming fundamentals and real-world projects.
-- Transition from **Bacharelado Interdisciplinar** to **Software Engineering** through **CPL**.
+I'm currently studying Systems Development at SENAI and pursuing an Interdisciplinary Bachelor's in Science, Technology, and Innovation at UFBA. I'm focused on backend development and building strong foundations in Java, C, and SQL. I’m also interested in problem solving and improving my skills through real-world projects.
 
 ---
 
-### 🛠️ Main skills:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🧰 Languages and Tools
 
-### 📬 Let's connect:
-[LinkedIn](https://www.linkedin.com/in/Jhonathas-Climaco/) | [Instagram](https://instagram.com/jhonathasdev) | [Email](mailto:jhonathassouza3@gmail.com)
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+
+<br />
+
+
