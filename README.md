@@ -1,6 +1,6 @@
 # Jhonathas Climaco
 
-**`Student | Future Software Engineer`**
+**`Student | Future Back-End Devekoper`**
 
 I'm currently studying Systems Development at SENAI and pursuing an Interdisciplinary Bachelor's in Science, Technology, and Innovation at UFBA. I'm focused on backend development and building strong foundations in Java, C, and SQL. I’m also interested in problem solving and improving my skills through real-world projects.
 
