@@ -1,84 +1,75 @@
-<h1 align="center">Hi 👋, I'm Jhonathas Climaco</h1>
-<h3 align="center">🚀 Student | Future Back-End Developer | Problem Solver</h3>
+# 👋 Olá, eu sou Jhonathas Climaco
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JhonathasDev&label=Profile%20views&color=0e75b6&style=flat" alt="JhonathasDev" />
-</p>
+Desenvolvedor full-stack em formação, com maior foco em **back-end**. Tenho 21 anos, sou da Bahia e estou sempre em busca de aprender e crescer na área de tecnologia.
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Currently studying **Systems Development** at SENAI
-- 🌱 Pursuing an **Interdisciplinary Bachelor's** in Science, Technology, and Innovation at UFBA
-- 💼 Focused on **backend development** and building strong foundations
-- 🧠 Passionate about **problem solving** and continuous learning
-- 🔍 Always looking to improve my skills through **real-world projects**
-- ⚡ Fun fact: I love turning complex problems into simple solutions!
+Sou dedicado, curioso e gosto de entender profundamente o que estudo. Atualmente, estou construindo uma base sólida em desenvolvimento de software, explorando desde arquitetura até boas práticas de código.
 
 ---
 
-## 🛠️ Languages and Tools
+## 🎓 Formação
 
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-</p>
+- **Bacharelado Interdisciplinar em Ciência, Tecnologia e Inovação** – UFBA
+- **Curso Técnico em Desenvolvimento de Sistemas** – SENAI
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Stacks e Ferramentas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonathasDev&show_icons=true&locale=en&theme=radical" alt="JhonathasDev" />
-</p>
+**Linguagens:**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhonathasDev&theme=radical" alt="JhonathasDev" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonathasDev&show_icons=true&locale=en&layout=compact&theme=radical" alt="JhonathasDev" />
-</p>
+**Frameworks e Plataformas:**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Banco de Dados:**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Ferramentas e Práticas:**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+- Metodologias Ágeis: **Scrum** e **Kanban**
 
 ---
 
-## 📈 Current Learning Journey
+## 🚀 Projetos em Destaque
 
-- 🔥 Deepening knowledge in **Java** ecosystem (Spring Framework, Maven, etc.)
-- 🌐 Exploring **backend architecture** patterns and best practices
-- 📊 Learning advanced **SQL** techniques and database optimization
-- 🔧 Mastering **Git** workflows and collaboration practices
-- 🚀 Building projects to apply theoretical knowledge practically
+<!-- Adicione seus projetos aqui -->
+<!-- Exemplo:
+- **[Nome do Projeto](link)** - Breve descrição do que o projeto faz e tecnologias utilizadas.
+-->
+
+_Em breve, estarei compartilhando projetos interessantes por aqui!_
 
 ---
 
-## 🤝 Connect with Me
+## 📚 Atualmente Aprendendo
 
-<p align="center">
-<a href="https://github.com/JhonathasDev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</p>
+- Arquitetura de software e padrões de design
+- Cloud computing com **AWS**
+- Containerização com **Docker**
+- Mensageria e sistemas distribuídos
+- Aprofundamento em **backend development**
+
+---
+
+## 📫 Como me Encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
 
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/JhonathasDev">JhonathasDev</a></i>
+  <img src="https://komarev.com/ghpvc/?username=JhonathasDev&label=Visualizações&color=0e75b6&style=flat" alt="Profile views" />
 </p>
